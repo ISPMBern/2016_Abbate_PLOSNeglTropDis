@@ -1,4 +1,4 @@
-# 2016_-Abbate_PLOSNeglTropDis
+# 2016_Abbate_PLOSNeglTropDis
 
 This repository contains data and `R` code files from the following publication:
 
